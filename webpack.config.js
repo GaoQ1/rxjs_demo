@@ -1,8 +1,8 @@
 module.exports = {
-	entry: './src/app.js',
+	entry: './src/rxlearn.js',
 	output: {
 		path: './dist',
-		filename:'app.bundle.js'
+		filename:'rxlearn.bundle.js'
 	},
 	module: {
 		loaders: [{
